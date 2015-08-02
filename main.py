@@ -3,7 +3,7 @@
 from graph import *
 
 if __name__ == "__main__":
-	   	g1 = { "a" : ["c", "a"],
+	   	graph1 = { "a" : ["c", "a"],
 			  "b" : ["c", "e", "d"],
 			  "c" : ["a", "b", "d", "e"],
 			  "d" : ["c"],
@@ -11,5 +11,5 @@ if __name__ == "__main__":
 			  "f" : []
 			}
 
-		g = Graph()
-		print(g.generate_edges(g1))
+		g = Graph(graph1)
+		print(g.generate_edges())
