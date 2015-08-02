@@ -1,4 +1,12 @@
 #!/usr/bin/env python
+""" Route Engine
+This project is intended to provide a very fast and small routing
+engine written in Python. 
+
+Author: Patryk Zabkiewicz
+Date:	2015.07.30
+
+"""
 
 from graph import *
 
