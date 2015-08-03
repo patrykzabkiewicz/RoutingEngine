@@ -9,5 +9,5 @@ Main features:
 What it should do:
 
  - take A to B points
- - return list of verticies
-
+ - return list of verticies and edges
+ - return list of turns

@@ -7,6 +7,9 @@ Date:		2015.08.01
 
 """
 
+from vertex import *
+from edge import *
+
 class Graph:
 	def __init__(self,graph_input={}):
 		self.__graph = graph_input
