@@ -15,6 +15,6 @@ class DataAccess:
         self.__data = []
 
     @staticmethod
-    def read_txt():
+    def read_txt(filename):
         graph = Graph()
         return graph
