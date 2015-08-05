@@ -11,3 +11,10 @@ What it should do:
  - take A to B points
  - return list of verticies and edges
  - return list of turns
+
+If you are interested I can provide a support for this library
+catch me on: pzabkiewicz@gmail.com
+
+I also can be involved in commercial projects about graph and
+routing algorithms.
+
